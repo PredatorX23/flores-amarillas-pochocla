@@ -1,0 +1,15 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos ZIP de distribución (ya que tenemos los originales)
+*.zip
+
+# Archivos de respaldo
+*.bak
+*~
